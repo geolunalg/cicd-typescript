@@ -12,7 +12,7 @@
   },
   "include": [
     "./src/**/*.ts",
-    "tests/api/auth.test.ts"
+    "src/tests/api/auth.test.ts"
   ],
   "exclude": [
     "node_modules"
