@@ -1,6 +1,6 @@
 // getAPIKey.test.ts
 import { describe, it, expect } from "vitest";
-import { getAPIKey } from "../../src/api/auth"
+import { getAPIKey } from "../../api/auth";
 
 describe("getAPIKey", () => {
   it("returns the API key when header is properly formatted", () => {
